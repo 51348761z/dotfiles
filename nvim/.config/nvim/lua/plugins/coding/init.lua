@@ -1,0 +1,5 @@
+require("plugins.coding.lsp")
+require("plugins.coding.treesitter")
+require("plugins.coding.blink")
+require("plugins.coding.conform")
+require("plugins.coding.neotest")

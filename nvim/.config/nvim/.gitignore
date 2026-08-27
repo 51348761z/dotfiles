@@ -1,0 +1,10 @@
+# Neovim runtime logs
+nvim.log
+*.log
+
+# macOS metadata
+.DS_Store
+
+# Vim temporary files
+*.swp
+*.swo
