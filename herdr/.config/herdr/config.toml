@@ -1,4 +1,5 @@
 onboarding = false
+
 [theme]
 # Built-in themes: catppuccin, terminal, tokyo-night, dracula, nord,
 #                  gruvbox, one-dark, solarized, kanagawa, rose-pine,
@@ -224,7 +225,7 @@ split_horizontal = "prefix+minus"
 # Ordered status entries at the right edge of the desktop tab bar.
 # Supported types: zoom, hostname, datetime, text, and command.
 # Hostname, datetime, and command entries resolve on the Herdr server.
-# tab_bar_right = []
+tab_bar_right = [{ type = "hostname" }, { type = "datetime", format = "%H:%M" }]
 # tab_bar_right_separator = " "
 
 # Title Herdr writes to the terminal it runs in, which is what window managers
