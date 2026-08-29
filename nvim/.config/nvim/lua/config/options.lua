@@ -36,8 +36,6 @@ vim.o.wrap = false -- disable wrapping
 vim.o.breakindent = true -- prevent line wrapping
 vim.o.laststatus = 3 -- global statusline
 
-vim.diagnostic.config({ virtual_text = true }) -- inline diagnostics
-
 vim.opt.foldmethod = "indent"
 -- Keep folds open when you first open a file.
 vim.opt.foldenable = true
