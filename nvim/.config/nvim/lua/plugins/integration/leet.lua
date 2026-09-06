@@ -2,7 +2,8 @@
 vim.pack.add({
 	"https://github.com/nvim-lua/plenary.nvim",
 	"https://github.com/MunifTanjim/nui.nvim",
-	"https://github.com/kawre/leetcode.nvim",
+	-- "https://github.com/kawre/leetcode.nvim",
+	{ src = "https://github.com/51348761z/leetcode.nvim", version = "feat/all-code-essentials" },
 })
 
 -- options

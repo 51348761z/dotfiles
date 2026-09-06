@@ -45,8 +45,9 @@
       "src": "https://github.com/lewis6991/gitsigns.nvim"
     },
     "leetcode.nvim": {
-      "rev": "4e8b3683940a8377379ce9398e7f329e3560b42c",
-      "src": "https://github.com/kawre/leetcode.nvim"
+      "rev": "5a34daa09e4e596bc1d3732dd1f4dc88a7831718",
+      "src": "https://github.com/51348761z/leetcode.nvim",
+      "version": "'feat/all-code-essentials'"
     },
     "lualine.nvim": {
       "rev": "221ce6b2d999187044529f49da6554a92f740a96",
@@ -83,6 +84,10 @@
     "nui.nvim": {
       "rev": "10fc361835c856ba4233ef5ea135b919bf3dce97",
       "src": "https://github.com/MunifTanjim/nui.nvim"
+    },
+    "nvim-hlslens": {
+      "rev": "be2d7b2be01860b5445a007ff2bc72b29896db6b",
+      "src": "https://github.com/kevinhwang91/nvim-hlslens"
     },
     "nvim-lspconfig": {
       "rev": "af9adce488c75ca0a81017945c2b7fa7b461bc23",
