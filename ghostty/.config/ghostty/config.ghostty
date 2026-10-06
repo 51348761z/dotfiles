@@ -8,8 +8,8 @@ macos-icon = retro
 # selection-foreground = cell-background
 theme = light:Rose Pine Dawn,dark:Rose Pine
 # theme = Rose Pine
-font-family = Fira Code
-font-size = 17
+font-family = FiraCode Nerd Font Mono Md
+font-size = 18
 
 # Comfortable, balanced layout
 window-padding-x = 12
