@@ -6,3 +6,8 @@
 *.swp
 *.swo
 *~
+
+# Herdr runtime state
+herdr/.config/herdr/herdr.sock.agent
+herdr/.config/herdr/release-notes.json
+herdr/.config/herdr/session-snapshots/
